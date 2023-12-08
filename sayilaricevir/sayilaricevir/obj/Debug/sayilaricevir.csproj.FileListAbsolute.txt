@@ -1,0 +1,10 @@
+C:\Users\FURKAN BAYRAM\source\repos\sayilaricevir\sayilaricevir\bin\Debug\sayilaricevir.exe.config
+C:\Users\FURKAN BAYRAM\source\repos\sayilaricevir\sayilaricevir\bin\Debug\sayilaricevir.exe
+C:\Users\FURKAN BAYRAM\source\repos\sayilaricevir\sayilaricevir\bin\Debug\sayilaricevir.pdb
+C:\Users\FURKAN BAYRAM\source\repos\sayilaricevir\sayilaricevir\obj\Debug\sayilaricevir.csproj.AssemblyReference.cache
+C:\Users\FURKAN BAYRAM\source\repos\sayilaricevir\sayilaricevir\obj\Debug\sayilaricevir.Form1.resources
+C:\Users\FURKAN BAYRAM\source\repos\sayilaricevir\sayilaricevir\obj\Debug\sayilaricevir.Properties.Resources.resources
+C:\Users\FURKAN BAYRAM\source\repos\sayilaricevir\sayilaricevir\obj\Debug\sayilaricevir.csproj.GenerateResource.cache
+C:\Users\FURKAN BAYRAM\source\repos\sayilaricevir\sayilaricevir\obj\Debug\sayilaricevir.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN BAYRAM\source\repos\sayilaricevir\sayilaricevir\obj\Debug\sayilaricevir.exe
+C:\Users\FURKAN BAYRAM\source\repos\sayilaricevir\sayilaricevir\obj\Debug\sayilaricevir.pdb
